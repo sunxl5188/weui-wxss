@@ -31,12 +31,13 @@ WeUI for 小程序 为微信小程序量身设计
 
 <img src='https://cloud.githubusercontent.com/assets/2395166/20168869/48a75b02-a75f-11e6-89aa-503d65c8ad8e.png' width='344' alt='preview' />
 
-![WeUI for 小程序](https://github.com/sunxl5188/weui-wxss/29502325.jpg)
+![WeUI for 小程序](https://github.com/sunxl5188/weui-wxss/raw/master/29502325.jpg)
+![image](https://github.com/sunxl5188/weui-wxss/blob/master/29502325.jpg)
 
 
 ## 文档
 
-WeUI 视觉标准参考 [weui-design](https://github.com/sunxl5188/weui-wxss/blob/master/29502325.jpg)
+WeUI 视觉标准参考 [weui-design](https://github.com/weui/weui-design)
 
 
 ## License
